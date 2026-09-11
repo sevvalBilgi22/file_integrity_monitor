@@ -1,0 +1,34 @@
+readme.txt
+.readme.txt
+#Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+#Sanal Ortam
+venv/
+env/
+ENV/
+.venv/
+
+#FIM Projesine Özel
+baseline.json
+test_baseline.json
+fim.log
+fim_report_*.html
+test_files/
+
+#Ortam Değişkenleri
+.env
+*.env
+
+#IDE
+.vscode/
+.idea/
+*.swp
+
+#İşletim Sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
